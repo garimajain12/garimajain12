@@ -22,5 +22,4 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=garimajain12&theme=tokyonight&show_icons=true">
 
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=garimajain12&theme=tokyonight">
-
  </p>
